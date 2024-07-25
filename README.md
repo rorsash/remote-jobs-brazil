@@ -179,6 +179,7 @@ Sysmo | https://www.sysmo.com.br/trabalhe/
 Talentify | https://talentify-brasil.talentify.io/jobs
 Taller | http://taller.net.br/
 TecSinapse | http://www.tecsinapse.com.br
+Teleinx |  https://www.teleinx.com/
 Test IO | https://test.io/
 TIVIT | https://jobs.kenoby.com/tivit
 Ton | https://www.ton.com.br/
